@@ -9,8 +9,8 @@ This means:
 - Safe for public use, experimentation, and learning.
 - Using this dataset, users can explore data analysis, visualization, and storytelling while working with a safe, privacy-friendly dataset about the entertainment world.
 
-The goal of this project is to explore trends such as:
-
-- Common genres among top actors and musicians
+SQL was used in the creation and population of the tables in the Database and Power BI for visualization purposes. The goal of this project is to explore trends such as:
+- Most popular Person/Least Popular person based on Revenue and awards
 - Revenue Generated Individually and in categories
 - Awards and recognitions across entertainment fields
+- Gender Achievement
